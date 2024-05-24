@@ -1,8 +1,8 @@
 # NomadBuddy
 
-This is a simple travel planner app which allows you to search for safari expeditions near a location you search. It uses Rails for the backend, reactJS for the frontend, MaterialUI for the logos, FigmaUI for the design of the application and the mapboxAPI for the geocoding, reverse geocoding and the map features in the application. Apart from this we have used restAPI foer the http calls.
+This is a simple travel planner app which allows you to search for safari expeditions near a location you search. It uses Rails for the backend, reactJS for the frontend, MaterialUI for the logos, FigmaUI for the design of the application and the mapboxAPI for the geocoding, reverse geocoding and the map features in the application. Apart from this we have used restAPI for the http calls.
 
-![output](path/to/image.jp)
+![output](safari1.PNG)
 
 below is the tech stack used in this application
 
